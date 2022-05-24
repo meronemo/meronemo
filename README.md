@@ -1,4 +1,6 @@
 # meronemo
+`#50c878`
+
 ## Stats
 ![meronemo's Github Stats](https://github-readme-stats.vercel.app/api?username=meronemo&hide=prs&count_private=true&theme=discord_old_blurple&include_all_commits=true&show_icons=true&v=2)
 
