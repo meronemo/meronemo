@@ -6,3 +6,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meronemo&layout=compact&theme=discord_old_blurple&v=2)
 
 ![Meronemo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=meronemo&layout=compact&theme=discord_old_blurple&v=2&langs_count=5)
+
+![Meronemo's solved.ac Profile](http://mazandi.herokuapp.com/api?handle=csw&theme=dark)
