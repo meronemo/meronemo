@@ -5,4 +5,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meronemo&layout=compact&theme=discord_old_blurple&v=2)
 
-![Meronemo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=meronemo&layout=compact&theme=discord_old_blurple&v=2&langs_count=10)
+![Meronemo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=meronemo&layout=compact&theme=discord_old_blurple&v=2&langs_count=5)
