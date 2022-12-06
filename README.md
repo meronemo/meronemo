@@ -3,7 +3,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeronemo%2Fmeronemo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=meronemo&theme=discord_old_blurple&hide=prs&count_private=true&show_icons=true">　
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=meronemo&layout=compact&theme=discord_old_blurple&langs_count=6">　
-  <img src="http://mazandi.herokuapp.com/api?handle=csw&theme=dark">
+  <img src="http://mazandi.herokuapp.com/api?handle=csw&theme=dark">　
+  <img src="https://mazassumnida.wtf/api/generate_badge?boj=csw">
   
   
   <h3>⚒️ Tech Stack ⚒️</h3>
